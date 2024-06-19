@@ -8,7 +8,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G/hub">
+    <a href="https://www.frontendmentor.io/solutions/url-shortening-api--ozN3RXIXL">
       Solution
     </a>
   </h3>
@@ -61,4 +61,4 @@ I'm continuing to explore APIs through another small project, focusing on retrie
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G/hub">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/url-shortening-api--ozN3RXIXL">solution</a>. It definitely helps to find new ways to code and find easier solutions!
