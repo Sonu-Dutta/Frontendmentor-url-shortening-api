@@ -50,9 +50,7 @@ You can use any JavaScript framework/library on the front-end such as React or V
 
 ## What I learned
 
-Another attempt to play around with API and understand it better. Not very hard as I only need one data from get request. This will be my 3rd small project using API. Working with it is not hard however it does get a little harder when I have to work with dynamic DOM elements. Once again was glad to practice some CSS and eventlisteners. I try not to match the original design as much as I did before as it takes more time and I prefer to spend it mostly on JavaScript.
-
-The hardest part which I never managed to finish is saving the cache after reloading. I tried different ways but I am not getting the final result. I do manage to retrieve the previous data (the input value, for instance) however I am unable to make it visible. I usually use console.log-s to understand what I am doing and it does work, I do retrieve everything I need but I have a hard time displaying it on dynamic elements. The elements stay there after refresh however they are empty. I will for sure get back to this project again!
+"I'm continuing to explore APIs through another small project, focusing on retrieving specific data via GET requests. While working with APIs isn't overly complex, handling dynamic DOM elements presents challenges. I've enjoyed practicing CSS and event listeners, prioritizing JavaScript over meticulously matching original designs to save time. The most challenging aspect has been persisting cached data after page reloads. Despite successfully retrieving and logging previous input data, displaying it in dynamic elements remains elusive. Although the elements persist after refresh, they appear empty. I'll revisit this project to tackle this issue."
 
 ## Useful resources
 
