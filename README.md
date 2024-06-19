@@ -50,7 +50,7 @@ You can use any JavaScript framework/library on the front-end such as React or V
 
 ## What I learned
 
-"I'm continuing to explore APIs through another small project, focusing on retrieving specific data via GET requests. While working with APIs isn't overly complex, handling dynamic DOM elements presents challenges. I've enjoyed practicing CSS and event listeners, prioritizing JavaScript over meticulously matching original designs to save time. The most challenging aspect has been persisting cached data after page reloads. Despite successfully retrieving and logging previous input data, displaying it in dynamic elements remains elusive. Although the elements persist after refresh, they appear empty. I'll revisit this project to tackle this issue."
+I'm continuing to explore APIs through another small project, focusing on retrieving specific data via GET requests. While working with APIs isn't overly complex, handling dynamic DOM elements presents challenges. I've enjoyed practicing CSS and event listeners, prioritizing JavaScript over meticulously matching original designs to save time. The most challenging aspect has been persisting cached data after page reloads. Despite successfully retrieving and logging previous input data, displaying it in dynamic elements remains elusive. Although the elements persist after refresh, they appear empty. I'll revisit this project to tackle this issue.
 
 ## Useful resources
 
